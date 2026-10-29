@@ -899,6 +899,7 @@ Key features:
     +   [Furucombo](https://furucombo.app/): easily create flashloans without writing a single line of code.
     +   [Codex](https://www.codex.io): Real-time, enriched, blockchain data API indexing 60 million+ tokens and 400M wallets across 80+ networks.
     +   [Bitquery](https://bitquery.io/): Bitquery provides blockchain data, offering real-time streaming APIs for 40+ chains, NFT APIs, and a money flow investigation tool.
+    +   [BlockVectra](https://docs.blockvectra.com/en/api/data/?ref=gh-awesome-blockchain-1029): Indexed EVM data APIs for transactions and ERC-20 transfers, with a TypeScript SDK.
     +   [Covalent](https://www.covalenthq.com/): an unified API bringing visibility to billions of blockchain data points.
     +   [BTCBench Fee Calculator](https://www.btcbench.com/calculator.html) - Estimate transaction costs based on current network conditions.
     +   [Chartscout](https://chartscout.io) : Real-time crypto chart pattern detection and automated trading alerts across multiple exchanges.
